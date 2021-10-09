@@ -1,0 +1,21 @@
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\bin\Debug\Battle_M.exe.config
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\bin\Debug\Battle_M.exe
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\bin\Debug\Battle_M.pdb
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\obj\Debug\Battle_M.exe
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\obj\Debug\Battle_M.pdb
+C:\Users\USA\Documents\Visual Studio 2015\Projects\Battle_M\Battle_M\obj\Debug\Battle_M.csprojResolveAssemblyReference.cache
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.exe.config
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.exe
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.pdb
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.exe
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.pdb
+C:\Users\USA\Desktop\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.csprojResolveAssemblyReference.cache
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.exe.config
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.exe
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.pdb
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.exe
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.pdb
+C:\Users\linkf\OneDrive\Documents\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.csprojResolveAssemblyReference.cache
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\Battle_M\Battle_M\bin\Debug\Battle_M.exe.config
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.exe
+C:\Users\Brennan\Documents\Programming Stuff\Video_Game_Projects\Console App\Battle_M\Battle_M\obj\Debug\Battle_M.pdb
